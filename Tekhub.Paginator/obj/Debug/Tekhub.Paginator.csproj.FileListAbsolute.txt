@@ -1,0 +1,5 @@
+C:\Repos\Tekhub.Paginator\Tekhub.Paginator\bin\Debug\Tekhub.Paginator.dll
+C:\Repos\Tekhub.Paginator\Tekhub.Paginator\bin\Debug\Tekhub.Paginator.pdb
+C:\Repos\Tekhub.Paginator\Tekhub.Paginator\obj\Debug\Tekhub.Paginator.dll
+C:\Repos\Tekhub.Paginator\Tekhub.Paginator\obj\Debug\Tekhub.Paginator.pdb
+C:\Repos\Tekhub.Paginator\Tekhub.Paginator\obj\Debug\Tekhub.Paginator.csprojResolveAssemblyReference.cache
